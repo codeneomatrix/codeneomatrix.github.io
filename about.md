@@ -29,12 +29,6 @@ ___
 
 > Participante en el HACKATEC 2016, con el proyecto Hamil
 
-> ##### Comite Organizador
-> septiembre de 2015 
-
-> Oaxaca de Juárez y alrededores, México
-
-> Colaborador en el comite organizador de la "First Joint International Meeting of the Israel Mathematical Union and the Mexican Mathematical Society"
 
 > ##### Creador de contenido  YouTube
 > diciembre de 2014 - julio de 2015 (8 meses)
@@ -65,11 +59,10 @@ ___
 
 
 ### Activities and Societies
- > coordinador de la actividad complementaria "taller de lógica lateral".
  
  > Integrante del equipo del proyecto LAUXO en feria digital 2015 OAXACA. 
  
- > Integrante del equipo creador de la herramienta ChildrenLogicalBuild VR .
+ > Integrante del equipo creador de la herramienta [ChildrenLogicalBuild VR](https://logical-children.herokuapp.com/).
 
 ___
 
