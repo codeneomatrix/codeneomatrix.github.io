@@ -98,6 +98,9 @@ ___
 <blockquote class="embedly-card"><h4><a href="https://github.com/codeneomatrix">codeneomatrix (neomatrix)</a></h4><p>codeneomatrix has 151 repositories available. Follow their code on GitHub.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+<blockquote class="embedly-card"><h4><a href="https://gist.github.com/codeneomatrix">Build software better, together</a></h4><p>GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 57 million projects.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@josuecevedo">JOSUE ACEVEDO MALDONADO - Medium</a></h4><p>Read writing from JOSUE ACEVEDO MALDONADO on Medium. . Every day, JOSUE ACEVEDO MALDONADO and thousands of other voices read, write, and share important stories on Medium.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
@@ -109,9 +112,8 @@ ___
 <blockquote class="embedly-card"><h4><a href="https://hub.docker.com/u/codeneomatrix/">null</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<a align="center" class="twitter-timeline"  href="https://twitter.com/aneomatrix" data-widget-id="613525950878253058">@aneomatrix.</a>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<blockquote class="embedly-card"><h4><a href="https://es.pinterest.com/josuecevedo/">Pinterest</a></h4><p>undefined</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
 
