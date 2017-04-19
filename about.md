@@ -95,10 +95,16 @@ ___
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/in/acevedo-maldonado-josue/">Josue Acevedo Maldonado | LinkedIn</a></h4><p>Construcción de una plataforma de inteligencia artificial.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+<blockquote class="embedly-card"><h4><a href="https://es.pinterest.com/josuecevedo/">Pinterest</a></h4><p>undefined</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <blockquote class="embedly-card"><h4><a href="https://github.com/codeneomatrix">codeneomatrix (neomatrix)</a></h4><p>codeneomatrix has 151 repositories available. Follow their code on GitHub.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://gist.github.com/codeneomatrix">Build software better, together</a></h4><p>GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 57 million projects.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="https://gitlab.com/aneomatrix">NEOMATRIX</a></h4><p>GitLab.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://medium.com/@josuecevedo">JOSUE ACEVEDO MALDONADO - Medium</a></h4><p>Read writing from JOSUE ACEVEDO MALDONADO on Medium. . Every day, JOSUE ACEVEDO MALDONADO and thousands of other voices read, write, and share important stories on Medium.</p></blockquote>
@@ -106,14 +112,10 @@ ___
 
 <blockquote class="embedly-card"><h4><a href="http://designeomatrix.deviantart.com/gallery/">designeomatrix's DeviantArt gallery</a></h4><p>DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://gitlab.com/aneomatrix">NEOMATRIX</a></h4><p>GitLab.com</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://hub.docker.com/u/codeneomatrix/">Docker hub</a></h4><p>codeneomatrix has 2 repositories available.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://hub.docker.com/u/codeneomatrix/">null</a></h4><p>null</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://es.pinterest.com/josuecevedo/">Pinterest</a></h4><p>undefined</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
 
